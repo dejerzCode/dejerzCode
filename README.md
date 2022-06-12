@@ -1,5 +1,50 @@
 ### Hi there 👋
 
+My name is Edson and I'm a computer science teacher, looking to become a professional developer. I'm from Guatemala, living in Guatemala City. 
+
+## What i'm up to
+
+- 🔭 I currently work as a Consultant in education and technology projects.
+- 🌱 I’m currently learning:
+ 
+  [Spring Boot](https://spring.io/projects/spring-boot)
+  
+  [React](https://reactjs.org)
+
+- 🤔 I’m looking to learn ...
+  
+  [MongoDB](https://www.mongodb.com)
+  
+  [NodeJS](https://nodejs.ort)
+  
+
+## Languages, frameworks and tools
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/nsdonato/dejerzcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejerzcode&hide=CSS,tex&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&langs_count=3" />
+</a>
+<a href="https://github.com/nsdonato/dejerzcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dejerzcode&show_icons=true&line_height=27&count_private=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&bg_color=1a1b27&theme=tokyonight" alt="dejerzCode's GitHub Stats" />
+</a>
+
+
+[1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[2.2]: https://raw.githubusercontent.com/nsdonato/nsdonato/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
 <!--
 **dejerzCode/dejerzCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
