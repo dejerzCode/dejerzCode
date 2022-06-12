@@ -4,19 +4,12 @@ My name is Edson and I'm a computer science teacher, looking to become a profess
 
 ## What i'm up to
 
-- 🔭 I currently work as a Consultant in education and technology projects.
-- 🌱 I’m currently learning:
- 
-  [Spring Boot](https://spring.io/projects/spring-boot)
-  
-  [React](https://reactjs.org)
+🔭 I currently work as a Consultant in education and technology projects.
 
-- 🤔 I’m looking to learn ...
-  
-  [MongoDB](https://www.mongodb.com)
-  
-  [NodeJS](https://nodejs.ort)
-  
+| 🌱 I’m currently learning:                             	| 🤔 I’m looking to learn             	|
+|-------------------------------------------------------	|------------------------------------	|
+| [Spring Boot](https://spring.io/projects/spring-boot) 	| [MongoDB](https://www.mongodb.com) 	|
+| [React](https://reactjs.org)                          	| [NodeJS](https://nodejs.ort)       	|
 
 ## Languages, frameworks and tools
 
