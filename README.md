@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Edson and I'm a computer science teacher, looking to become a professional developer. I'm from Guatemala, living in Guatemala City. 
+My name is Edson and I'm a computer science teacher, looking to become a professional developer. 
+I'm from Guatemala, living in Guatemala City. 
 
 ## What i'm up to
 
